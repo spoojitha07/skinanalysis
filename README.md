@@ -1,4 +1,4 @@
-# 🧴 SkinAnalysis
+#  SkinAnalysis
 
 **Survey-Based Data Analysis of Skincare Product Usage Across Age Groups with Dermatologist Recommendations**
 
